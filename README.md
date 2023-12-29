@@ -8,9 +8,9 @@ Ml Api using Djano
   - pip install -r requirements.txt.
   - start server : python manage.py runserver
 # Apis
--/titanic/ - Titanic Data Prediction
--/picture/ - Tomato leaf-disease detection using CNN
--/object/ - Real time Object Detection Using Yolov8 - Fruits
--/bill/  - Bill amount reader from image using Yolov8 and easyocr
+-/titanic/ : Titanic Data Prediction
+-/picture/ : Tomato leaf-disease detection using CNN
+-/object/ : Real time Object Detection Using Yolov8 - Fruits
+-/bill/  : Bill amount reader from image using Yolov8 and easyocr
 
     
