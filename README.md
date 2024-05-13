@@ -1,5 +1,5 @@
 # ML-API
-Ml Api using Djano
+Ml Api using Django
 
 # Steps to Run this repository
   - Download or clone repository.
